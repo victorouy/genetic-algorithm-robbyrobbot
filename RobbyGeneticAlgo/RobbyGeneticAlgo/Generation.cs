@@ -9,8 +9,8 @@ namespace RobbyGeneticAlgo
 
 
     /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * The Generation class represents a generation with a population size of Chromosome members
@@ -22,8 +22,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       *@Param: populationSizem numGenes
       */
@@ -41,8 +41,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-    * @Author: Rahul Anton and Victor Ouy
-    * @Date: 13/04/2020
+    * @Author: Victor Ouy
+    * @Date: 13/04/2024
     * 
     *@Param: members
     */
@@ -59,8 +59,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-    * @Author: Rahul Anton and Victor Ouy
-    * @Date: 13/04/2020
+    * @Author: Victor Ouy
+    * @Date: 13/04/2024
     * 
     * 
     * indexer for Chromosome array
@@ -79,8 +79,8 @@ namespace RobbyGeneticAlgo
         }
 
         /*
-         * @Author: Rahul Anton and Victor Ouy
-         * @Date: 13/04/2020
+         * @Author: Victor Ouy
+         * @Date: 13/04/2024
          * 
          * @Param: f
          * 
@@ -99,8 +99,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-         * @Author: Rahul Anton and Victor Ouy
-         * @Date: 13/04/2020
+         * @Author: Victor Ouy
+         * @Date: 13/04/2024
          * 
          * @Return: this.chromosomes[index];
          *

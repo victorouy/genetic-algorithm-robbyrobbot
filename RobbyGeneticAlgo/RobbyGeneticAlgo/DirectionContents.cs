@@ -8,8 +8,8 @@ namespace RobbyGeneticAlgo
 {
 
     /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * this struct is used to get the surrounding tiles
@@ -24,8 +24,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * @Param: N, S, E, W, Current
       * 

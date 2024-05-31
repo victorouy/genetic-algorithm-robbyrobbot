@@ -13,12 +13,12 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using RobbyGeneticAlgo;
 
-namespace RobbyMonogame
+namespace RobbyGeneticMono
 {
 
     /*
-     * @Author: Rahul Anton and Victor Ouy
-     * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
      * 
      *Sprites for the Game 
      */
@@ -51,14 +51,14 @@ namespace RobbyMonogame
         private Chromosome chromo;
 
 
-      /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
-       * 
-       * @Param: game
-       * 
-       *Constructor
-       */
+        /*
+        * @Author: Victor Ouy
+        * @Date: 13/04/2024
+         * 
+         * @Param: game
+         * 
+         *Constructor
+         */
         public SimulationSprite(Game1 game) : base(game)
         {
             this.game = game;
@@ -75,8 +75,8 @@ namespace RobbyMonogame
 
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * Overrides the Initialize method
       * used to initialize the paths
@@ -98,8 +98,8 @@ namespace RobbyMonogame
         }
 
         /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
         * 
         * Overrides the LoadContent method
         * used to initialize the Texture2D objects (sprites)
@@ -117,8 +117,8 @@ namespace RobbyMonogame
         }
 
         /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
         * 
         * Helper Method used to read the generation txt file and create a chromosome using it
         */
@@ -179,8 +179,8 @@ namespace RobbyMonogame
 
 
         /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
         * 
         * @Param: gameTime
         * 
@@ -225,8 +225,8 @@ namespace RobbyMonogame
         }
 
         /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
         * 
         * @Param: gameTime
         * 

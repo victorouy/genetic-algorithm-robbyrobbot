@@ -8,8 +8,8 @@ namespace RobbyGeneticAlgo
 {
 
     /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
+        * @Author: Victor Ouy
+        * @Date: 13/04/2024
         * 
         * 
         * The chromosome class contains the fitness(score), an array of alleles and the length of the allele array
@@ -25,8 +25,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
+        * @Author: Victor Ouy
+        * @Date: 13/04/2024
         * 
         * @Param: length
         * 
@@ -45,8 +45,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
+        * @Author: Victor Ouy
+        * @Date: 13/04/2024
         * 
         * @Param: gene
         * 
@@ -67,9 +67,9 @@ namespace RobbyGeneticAlgo
 
 
         /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
-        * 
+        * @Author: Victor Ouy
+        * @Date: 13/04/2024
+        *
         * Indexer for Allele array
         */
         public Allele this[int index]
@@ -88,8 +88,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        * 
        * @Param: spouse, f, mutationRate
        * @Return: offSprings
@@ -117,8 +117,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
+        * @Author: Victor Ouy
+        * @Date: 13/04/2024
         * 
         * @Param: f
         * 
@@ -132,8 +132,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        * 
        * @Param: other
        * @Return: -1, 1, 0
@@ -159,8 +159,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        * 
        * @Return: alleleContent
        * 
@@ -186,8 +186,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        * 
        * @Return: copyChromosome
        * 
@@ -209,8 +209,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author Victor Ouy
+       * @Date: 13/04/2024
        * 
        * @Param: a, b
        * @Return: twoOffSpring
@@ -253,8 +253,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * @Param: a, b
       * @Return: twoOffSpring

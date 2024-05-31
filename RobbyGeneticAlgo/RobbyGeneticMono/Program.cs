@@ -1,6 +1,7 @@
-﻿using System;
+﻿/*
+using System;
 
-namespace RobbyMonogame
+namespace RobbyGeneticMono
 {
 #if WINDOWS || LINUX
     /// <summary>
@@ -19,4 +20,7 @@ namespace RobbyMonogame
         }
     }
 #endif
-}
+} */
+
+using var game = new RobbyGeneticMono.Game1();
+game.Run();

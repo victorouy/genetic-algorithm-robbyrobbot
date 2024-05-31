@@ -13,8 +13,8 @@ namespace RobbyGeneticAlgo
 
 
     /*
-     * @Author: Rahul Anton and Victor Ouy
-     * @Date: 13/04/2020
+     * @Author: Victor Ouy
+     * @Date: 13/04/2024
      * 
      * This class makes all the other classes interact with one another
      */
@@ -40,8 +40,8 @@ namespace RobbyGeneticAlgo
 
 
       /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        * 
        * @Param: numGenerations, popSize, f, numActions, numTestGrids, gridSize,  numGenes, eliteRate, mutationRate
        * 
@@ -63,8 +63,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        *
        * invokes the GS process amd instatiates the first genetation
        */
@@ -85,8 +85,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        * 
        * helper method
        */
@@ -99,8 +99,8 @@ namespace RobbyGeneticAlgo
         }
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        * 
        * @Param: f
        * 
@@ -117,8 +117,8 @@ namespace RobbyGeneticAlgo
         }
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        * 
        * @Param: delCross
        * 
@@ -149,8 +149,8 @@ namespace RobbyGeneticAlgo
 
 
         /*
-       * @Author: Rahul Anton and Victor Ouy
-       * @Date: 13/04/2020
+       * @Author: Victor Ouy
+       * @Date: 13/04/2024
        * 
        * @Param: c
        * @Return: testScore

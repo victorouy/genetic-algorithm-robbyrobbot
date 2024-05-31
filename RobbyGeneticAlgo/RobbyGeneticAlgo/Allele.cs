@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace RobbyGeneticAlgo
 {
     /*
-        * @Author: Rahul Anton and Victor Ouy
-        * @Date: 13/04/2020
+        * @Author: Victor Ouy
+        * @Date: 13/04/2024
         * 
         * 
         * The Enums for the moves Robby can make. Also known as the Genes

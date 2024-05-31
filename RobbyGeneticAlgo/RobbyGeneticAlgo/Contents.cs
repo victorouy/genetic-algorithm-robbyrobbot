@@ -8,8 +8,8 @@ namespace RobbyGeneticAlgo
 {
 
     /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * this enum represents the three different tiles in the game
       */

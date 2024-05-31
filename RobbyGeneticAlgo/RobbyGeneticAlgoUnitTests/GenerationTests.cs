@@ -11,8 +11,8 @@ namespace RobbyGeneticAlgoUnitTests
         private double num = 1;
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test the first constructor
@@ -36,8 +36,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-     * @Author: Rahul Anton and Victor Ouy
-     * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
      * 
      * 
      * Test the second constructor
@@ -58,8 +58,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-     * @Author: Rahul Anton and Victor Ouy
-     * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
      * 
      * 
      * Test the indexer
@@ -73,8 +73,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-     * @Author: Rahul Anton and Victor Ouy
-     * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
      * 
      * 
      * Test EvalFitness method
@@ -90,8 +90,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-     * @Author: Rahul Anton and Victor Ouy
-     * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
      * 
      * 
      * Test SelectParent method
@@ -106,8 +106,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Used for Fitness delegate testing

@@ -5,8 +5,8 @@ using RobbyGeneticAlgo;
 namespace RobbyGeneticAlgoUnitTests
 {
     /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * This unit test class is to test the methods and logic of Chromosome class
@@ -15,8 +15,8 @@ namespace RobbyGeneticAlgoUnitTests
     public class ChromosomeTests
     {
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * This test will fail since it only work when we use the seed on Random rnd(in Helpers class),
@@ -38,8 +38,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * This test tests the second constructor inside chromosome class
@@ -59,8 +59,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test's the index exception
@@ -78,8 +78,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test different chromosome object lengths
@@ -96,8 +96,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test SingleCrossover method
@@ -132,8 +132,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test DoubleCrossover method
@@ -165,8 +165,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test Reproduce method
@@ -190,8 +190,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test CompareTo method
@@ -212,8 +212,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test ToString method
@@ -229,8 +229,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test deepCopy method
@@ -244,8 +244,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Test EvalFitness method
@@ -259,8 +259,8 @@ namespace RobbyGeneticAlgoUnitTests
         }
 
         /*
-      * @Author: Rahul Anton and Victor Ouy
-      * @Date: 13/04/2020
+      * @Author: Victor Ouy
+      * @Date: 13/04/2024
       * 
       * 
       * Used for Fitness delegate testing
